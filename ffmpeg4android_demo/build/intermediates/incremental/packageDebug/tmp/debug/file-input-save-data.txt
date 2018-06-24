@@ -1,0 +1,23 @@
+#Internal package file, do not edit.
+#Sat Jun 23 16:19:18 CDT 2018
+2.base=/Users/CarlosAnguiano/Desktop/VideoCompressor 22 Jun/23 Junio video/ffmpeg4android_demo_studio/ffmpeg4android_demo/build/intermediates/transforms/stripDebugSymbol/debug/0
+0.path=lib/armeabi-v7a/liblicense-jni.so
+2.baseType=DIRECTORY
+3.base=/Users/CarlosAnguiano/Desktop/VideoCompressor 22 Jun/23 Junio video/ffmpeg4android_demo_studio/ffmpeg4android_demo/build/intermediates/transforms/dexMerger/debug/0
+2.set=NATIVE_RESOURCE
+1.path=lib/armeabi-v7a/libvideokit.so
+4.base=/Users/CarlosAnguiano/Desktop/VideoCompressor 22 Jun/23 Junio video/ffmpeg4android_demo_studio/ffmpeg4android_demo/build/intermediates/assets/debug
+count=5
+2.path=lib/armeabi-v7a/libloader-jni.so
+4.set=ASSET
+3.path=classes.dex
+3.baseType=DIRECTORY
+1.set=NATIVE_RESOURCE
+4.path=in.mp4
+1.baseType=DIRECTORY
+0.base=/Users/CarlosAnguiano/Desktop/VideoCompressor 22 Jun/23 Junio video/ffmpeg4android_demo_studio/ffmpeg4android_demo/build/intermediates/transforms/stripDebugSymbol/debug/0
+0.baseType=DIRECTORY
+3.set=DEX
+1.base=/Users/CarlosAnguiano/Desktop/VideoCompressor 22 Jun/23 Junio video/ffmpeg4android_demo_studio/ffmpeg4android_demo/build/intermediates/transforms/stripDebugSymbol/debug/0
+4.baseType=DIRECTORY
+0.set=NATIVE_RESOURCE

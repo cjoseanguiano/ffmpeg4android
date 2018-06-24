@@ -1,0 +1,4 @@
+#Sat Jun 23 23:34:59 CDT 2018
+base.0=/Users/CarlosAnguiano/Desktop/VideoCompressor 22 Jun/23 Junio video/ffmpeg4android_demo_studio/ffmpeg4android_demo/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
